@@ -1,3 +1,4 @@
+//Importaciones 
 import React from "react";
 import Navbar from "./components/Navbar";
 import Main from "./components/Main";
@@ -6,6 +7,7 @@ import Aside from "./components/Aside";
 import Footer from "./components/Footer";
 import "./components/App.css";
 
+//Llamo los componentes
 function App() {
   return (
     <>
