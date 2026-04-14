@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background: #333;
+  color: white;
+  padding: 15px;
+}
+
+.main {
+  padding: 20px;
+  background: #f4f4f4;
+}
+
+.section {
+  padding: 20px;
+  background: #ddd;
+}
+
+.aside {
+  padding: 20px;
+  background: #bbb;
+}
+
+.footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
